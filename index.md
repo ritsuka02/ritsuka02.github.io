@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ritsuka02/ritsuka02.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ritsuka02/ritsuka02.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>此处正为，迦勒底人理守护中心——GitHub分部！</p>
+<p>史上最大圣杯战争，于此开幕！</P>
+<p>天空的神明啊，现在宣告人智的败北。</p>
+<p>双眼已然腐朽，手足已然脆弱，知识已然僵化。</p>
+<p>作为最后的人类，在此裁定：</p>
+<p>众多的决断、无数的挫折、所有的繁荣，</p>
+<p>皆归于无。</p>
+<p>借此一击，击坠神明，奏响变革的钟声！</p>
+<p>冠位指定/人理保障天球,于此永恒</p>
+<p>master的背后，便是英灵座！</p>
